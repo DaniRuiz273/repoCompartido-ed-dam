@@ -20,7 +20,7 @@ Practicar flujo de trabajo con Git en equipo: clonado, ramas por persona, commit
 
 > Realiza estos pasos haciendo un commit después de cada uno, y subiendo los cambios al repositorio.
 
-- Crea un archivo .txt con tu nombre y escribe dentro como te llamas.
+- Crea en la carpeta textos un archivo .txt con tu nombre y escribe dentro como te llamas.
 - Añade cual es tu color favorito.
 - Añade cual es tu deporte favorito.
 - Borra tu color favorito.
